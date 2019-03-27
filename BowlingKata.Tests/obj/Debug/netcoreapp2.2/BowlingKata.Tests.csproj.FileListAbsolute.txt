@@ -1,0 +1,17 @@
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/obj/Debug/netcoreapp2.2/BowlingKata.Tests.csprojAssemblyReference.cache
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/obj/Debug/netcoreapp2.2/BowlingKata.Tests.csproj.CoreCompileInputs.cache
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/obj/Debug/netcoreapp2.2/BowlingKata.Tests.AssemblyInfoInputs.cache
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/obj/Debug/netcoreapp2.2/BowlingKata.Tests.AssemblyInfo.cs
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/BowlingKata.Tests.deps.json
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/BowlingKata.Tests.runtimeconfig.json
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/BowlingKata.Tests.runtimeconfig.dev.json
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/BowlingKata.Tests.dll
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/BowlingKata.Tests.pdb
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/BowlingKata.dll
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/bin/Debug/netcoreapp2.2/BowlingKata.pdb
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/obj/Debug/netcoreapp2.2/BowlingKata.Tests.csproj.CopyComplete
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/obj/Debug/netcoreapp2.2/BowlingKata.Tests.dll
+/Users/robertmchugh/RiderProjects/BowlingKata/BowlingKata.Tests/obj/Debug/netcoreapp2.2/BowlingKata.Tests.pdb
